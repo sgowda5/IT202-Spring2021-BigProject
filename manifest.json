@@ -1,0 +1,15 @@
+{
+    "name": "Public Safety App",
+    "short_name": "PSA",
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#db4938",
+    "icons": [
+        {
+          "src": "./icons/icon-256x256.png",
+          "type": "image/png",
+          "sizes": "256x256"
+        }
+    ],
+    "offline_enabled": "true"
+}
